@@ -1,0 +1,42 @@
+{
+	"name": "egjs-flicking-plugins-whellslide",
+	"version": "0.0.1",
+	"description": "This repository is an extension for EGJS - Flicking Slider that enables continuous mouse scrolling in the slider.",
+	"main": "WhellSlide.ts",
+	"type": "commonjs",
+	"files": [
+		"WhellSlide.ts"
+	],
+	"scripts": {
+		"test": "jest --runInBand --passWithNoTests"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/klich3/egjs-flicking-plugins-whellslide"
+	},
+	"keywords": [
+		"egjs-flicking",
+		"plugin"
+	],
+	"author": "Anthony Sychev <anton@sychev.xyz> (https://sychev.xyz)",
+	"bugs": "https://github.com/klich3/egjs-flicking-plugins-whellslide/issues",
+	"contributors": "https://github.com/klich3/egjs-flicking-plugins-whellslide/graphs/contributors",
+	"license": "MIT",
+	"funding": {
+		"type": "individual",
+		"url": "https://www.buymeacoffee.com/twooneone"
+	},
+	"peerDependencies": {
+		"@egjs/flicking": "^4.0.0"
+	},
+	"dependencies": {
+		"@babel/code-frame": "^7.0.0",
+		"jest-worker": "^24.0.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.2.2",
+		"@babel/preset-env": "^7.3.1",
+		"babel-jest": "^24.0.0",
+		"jest": "^24.0.0"
+	}
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+
+title: egjs - flicking - plugin - wheel scroll
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anton
+    family-names: Sychev
+    email: anton@sychev.xyz
+repository-code: "https://github.com/klich3/egjs-flicking-plugins-whellslide"
+abstract: Plugin Extension for Flicking that enables continuous mouse scrolling in the slider.
+keywords:
+  - plugin
+  - egjs-flicking
+license: MIT
+version: 0.0.1
