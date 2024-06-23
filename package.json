@@ -1,6 +1,6 @@
 {
-	"name": "egjs-flicking-plugins-whellslide",
-	"version": "0.0.1",
+	"name": "egjs-flicking-plugins-wheelslide",
+	"version": "0.0.2",
 	"description": "This repository is an extension for EGJS - Flicking Slider that enables continuous mouse scrolling in the slider.",
 	"main": "WhellSlide.ts",
 	"type": "commonjs",
@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/klich3/egjs-flicking-plugins-whellslide"
+		"url": "git+https://github.com/klich3/egjs-flicking-plugins-wheelslide"
 	},
 	"keywords": [
 		"egjs-flicking",
 		"plugin"
 	],
 	"author": "Anthony Sychev <anton@sychev.xyz> (https://sychev.xyz)",
-	"bugs": "https://github.com/klich3/egjs-flicking-plugins-whellslide/issues",
-	"contributors": "https://github.com/klich3/egjs-flicking-plugins-whellslide/graphs/contributors",
+	"bugs": "https://github.com/klich3/egjs-flicking-plugins-wheelslide/issues",
+	"contributors": "https://github.com/klich3/egjs-flicking-plugins-wheelslide/graphs/contributors",
 	"license": "MIT",
 	"funding": {
 		"type": "individual",

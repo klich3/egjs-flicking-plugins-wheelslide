@@ -1,4 +1,4 @@
-# @egjs-flicking-plugins-whellslide
+# @egjs-flicking-plugins-wheelslide
 
 <h1 align="center" style="max-width: 100%;">
   <img width="800" alt="Flicking Logo" src="https://naver.github.io/egjs-flicking/images/flicking.svg" style="max-width: 100%;" /><br/>
@@ -8,20 +8,20 @@ This repository is an extension for EGJS - Flicking Slider that enables continuo
 
 ## 🏃 Quick Start
 ```js
-import { WhellSlide } from "egjs-flicking-plugins-whellslide";
+import { WheelSlide } from "egjs-flicking-plugins-wheelslide";
 
 //vertical scroll
-flicking.addPlugins(new WhellSlide());
+flicking.addPlugins(new WheelSlide());
 
 //for horizontal slide set first attribute as true
-flicking.addPlugins(new WhellSlide(true));
+flicking.addPlugins(new WheelSlide(true));
 ```
 
 ## 📝 Feedback
-Please file an [Issue](https://github.com/klich3/egjs-flicking-plugins-whellslide/issues).
+Please file an [Issue](https://github.com/klich3/egjs-flicking-plugins-wheelslide/issues).
 
 ## 📜 License
-***egjs-flicking-plugins-whellslide*** is released under the [MIT license](LICENSE).
+***egjs-flicking-plugins-wheelslide*** is released under the [MIT license](LICENSE).
 
 ---
 

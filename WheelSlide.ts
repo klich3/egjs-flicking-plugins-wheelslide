@@ -12,7 +12,7 @@ Docs:
 
 import Flicking, { Plugin } from "@egjs/flicking";
 
-class WhellSlide implements Plugin {
+class WheelSlide implements Plugin {
 	private _flicking: Flicking | null;
 	private _ele: HTMLElement | null;
 	private _horizontal: boolean;
@@ -26,12 +26,12 @@ class WhellSlide implements Plugin {
 	}
 
 	/**
-	 * Create a new WhellSlide plugin
+	 * Create a new WheelSlide plugin
 	 * @param {boolean} horizontal - Scroll direction, default is false
 	 * @example
 	 * ```ts
-	 * import WhellSlide from "@/plugins/flicking/WhellSlide";
-	 * flicking.addPlugins(new WhellSlide(true|false));
+	 * import WheelSlide from "@/plugins/flicking/WheelSlide";
+	 * flicking.addPlugins(new WheelSlide(true|false));
 	 * ```
 	 */
 	public constructor(horizontal: boolean = false) {
@@ -62,4 +62,4 @@ class WhellSlide implements Plugin {
 	}
 }
 
-export default WhellSlide;
+export default WheelSlide;
