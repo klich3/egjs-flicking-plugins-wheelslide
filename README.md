@@ -28,3 +28,9 @@ Please file an [Issue](https://github.com/klich3/egjs-flicking-plugins-wheelslid
 ### NPM Publish
 
 NPM publish command: `npm publish --access=public ./`
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=klich3/egjs-flicking-plugins-wheelslide&type=Date)](https://star-history.com/#klich3/egjs-flicking-plugins-wheelslide&Date)
